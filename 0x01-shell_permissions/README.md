@@ -1,1 +1,1 @@
-create a script that adds execute permission to all subdirectories of the cureent directory for the owner, the group owner and all other users. Regular file should not be chnaged
+create a script that creates a directory called my_dir with permissions 751 in the working directory
