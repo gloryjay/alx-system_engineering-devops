@@ -1,1 +1,1 @@
-write a script that changes the owner vincent and the group owner to staff for the files and directories in the working directory
+write a script that changes the owner and the group owner of the _hello to vincent and staff respectively
