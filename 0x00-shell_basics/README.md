@@ -1,1 +1,1 @@
-command that lists all the files and directories of the current directory, separated by commas (,)
+create a script that moves all the files beginning with an uppercase letter to the drectory /tmp/u
