@@ -6,3 +6,4 @@ Display the last 10 lines of /etc/passwd
 Dipslay the first 10 lines of /etc/passwd
 script that displays the third line of the file iacta
 shell script thats creates a file and ends with a new line
+script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create i
