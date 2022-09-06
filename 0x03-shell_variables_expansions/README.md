@@ -5,3 +5,4 @@ Create a script that lists enviroment variables
 script that lists all local variables and enviroment variables, and functions
 script that creates a new local variable
 create a script that creates a new global variable
+a script that prints the result of the addition of 128 with thevalue stored in the enviroment variable TRUEKNOWLEDGE , followed by a new line
