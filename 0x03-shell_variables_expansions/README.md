@@ -8,3 +8,4 @@ create a script that creates a new global variable
 a script that prints the result of the addition of 128 with thevalue stored in the enviroment variable TRUEKNOWLEDGE , followed by a new line
 script that prints the result of POWER divided by DIVIDE, followed by a new line
 script that displays the result of BREATH to the power of LOVE
+script that converts a number from base 2 to base 10
